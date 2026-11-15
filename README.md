@@ -19,7 +19,7 @@ A Java 17 demonstration project for Application Security PBL.
 3. Open Terminal -> New Terminal.
 4. Run: `javac -d out src/main/java/com/securegate/SecureGate.java`
 5. Run: `java -cp out com.securegate.SecureGate`
-6. Open http://localhost:8081
+6. Open (https://securegate-application-security.onrender.com)
 Demo OTP: Register/login with a user. On login, check the terminal where the server runs for the OTP and enter it on the verification screen.
 
 ## Notes
