@@ -13,6 +13,7 @@ A Java 17 demonstration project for Application Security PBL.
 - Security audit events
 - Responsive modern UI
 
+  
 ## Run
 1. Install JDK 17 or newer.
 2. Open this folder in VS Code.
@@ -25,9 +26,18 @@ Demo OTP: Register/login with a user. On login, check the terminal where the ser
 ## Notes
 This is an educational prototype, not production-ready. It uses in-memory users/sessions and a demo OTP delivery channel. For production, use HTTPS, persistent database, email/SMS or authenticator-based OTP delivery, secure cookie flags, CSRF protection, rate limiting, secrets management, and independent security review.
 
+📄 Final Project Report
+
+The complete project report is available below.
+
+📥 "View / Download Final Project Report (PDF)" (Final_Project_Report.pdf)
+
+The report includes the project overview, objectives, system design, implementation, screenshots, testing, and conclusion.
+
+
 ## Team
 - Pathan Ansar Khan | 240160226248
 - Golla Venkatesam | 240160226255
 - M. Swetha Reddy | 240160227028
 - Muskan Hussain | 240160227017
-- Fifth member: details pending
+  
