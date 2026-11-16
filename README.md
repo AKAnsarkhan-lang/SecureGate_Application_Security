@@ -204,9 +204,11 @@ Production systems require persistent databases, secure OTP delivery, HTTPS, CSR
 
 Developed as a B.Tech Computer Science and Engineering (Cyber Security) Project-Based Learning project.
 
-Pathan Ansar khan 
+- Pathan Ansar Khan | 240160226248
+- Golla Venkatesam | 240160226255
+- M. Swetha Reddy | 240160227028
+- Muskan Hussain | 240160227017
 
-Course: B.Tech CSE (Cyber Security)
 Project: SecureGate - Advanced Secure Login & Authentication System
 
 ---
@@ -217,7 +219,7 @@ Project: SecureGate - Advanced Secure Login & Authentication System
 </p>
 
 
-
+  
 
 
 
