@@ -29,8 +29,7 @@ This is an educational prototype, not production-ready. It uses in-memory users/
 📄 Final Project Report
 
 The complete project report is available below.
-
-📥 "View / Download Final Project Report (PDF)" (Final_Project_Report.pdf)
+📥 [View / Download Final Project Report (PDF)](Final_Project_Report.pdf)
 
 The report includes the project overview, objectives, system design, implementation, screenshots, testing, and conclusion.
 
