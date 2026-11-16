@@ -17,7 +17,6 @@ Advanced Secure Login & Authentication System
 
 📂 "EXPLORE PROJECT REPOSITORY" (https://github.com/AKAnsarkhan-lang/SecureGate_Application_Security)
 
----
 
 📌 About The Project
 
@@ -196,9 +195,7 @@ For OTP verification, check the terminal where the server is running.
 ⚠️ Security Disclaimer
 
 SecureGate is an educational Application Security prototype.
-
 It uses in-memory users and sessions and a demo OTP delivery channel. It is not intended for production deployment.
-
 Production systems require persistent databases, secure OTP delivery, HTTPS, CSRF protection, rate limiting, secure cookie configuration, and independent security testing.
 
 ---
@@ -207,6 +204,7 @@ Production systems require persistent databases, secure OTP delivery, HTTPS, CSR
 
 Developed as a B.Tech Computer Science and Engineering (Cyber Security) Project-Based Learning project.
 
+Pathan Ansar khan 
 Course: B.Tech CSE (Cyber Security)
 Project: SecureGate - Advanced Secure Login & Authentication System
 
